@@ -64,4 +64,4 @@ create_vm centos8 student
 
 ## Лицензия
 
-Этот скрипт распространяется под [лицензией MIT](LICENSE).
+Этот скрипт распространяется под [лицензией MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
