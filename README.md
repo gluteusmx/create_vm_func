@@ -7,7 +7,7 @@
 1. Склонируйте этот репозиторий на свою систему:
 
    ```bash
-   git clone https://github.com/your_username/bash-scripts.git
+   git clone https://github.com/gluteusmx/create_vm_func.git
    ```
 
 2. Проверьте наличие директории `~/.bashrc.d/` и создайте её, если она отсутствует:
@@ -21,7 +21,7 @@
 3. Скопируйте файл функции `create_vm` в вашу директорию `~/.bashrc.d/`:
 
    ```bash
-   cp bash-scripts/virtual-machine/create_vm.sh ~/.bashrc.d/
+   cp create_vm_func/create_vm.sh ~/.bashrc.d/
    ```
 
 4. Добавьте инструкцию include в ваш основной файл `~/.bashrc`:
